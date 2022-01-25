@@ -1,0 +1,15 @@
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/obj/Debug/net6.0/ExemploConstrutores.csproj.AssemblyReference.cache
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/obj/Debug/net6.0/ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/obj/Debug/net6.0/ExemploConstrutores.AssemblyInfoInputs.cache
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/obj/Debug/net6.0/ExemploConstrutores.AssemblyInfo.cs
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/obj/Debug/net6.0/ExemploConstrutores.csproj.CoreCompileInputs.cache
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/bin/Debug/net6.0/ExemploConstrutores
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/bin/Debug/net6.0/ExemploConstrutores.deps.json
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/bin/Debug/net6.0/ExemploConstrutores.runtimeconfig.json
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/bin/Debug/net6.0/ExemploConstrutores.dll
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/bin/Debug/net6.0/ref/ExemploConstrutores.dll
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/bin/Debug/net6.0/ExemploConstrutores.pdb
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/obj/Debug/net6.0/ExemploConstrutores.dll
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/obj/Debug/net6.0/ref/ExemploConstrutores.dll
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/obj/Debug/net6.0/ExemploConstrutores.pdb
+/Users/macbook/curso dotnet/teste-construtor/ExemploConstrutores/obj/Debug/net6.0/ExemploConstrutores.genruntimeconfig.cache
